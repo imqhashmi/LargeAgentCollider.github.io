@@ -1,8 +1,9 @@
 ---
 name: Arnau Quera-Bofarull
 image: images/photo.jpg
-role: Postdoc
+role: postdoc
 aliases:
+  - Arnau Quera-Bofarull
   - A. Quera-Bofarull
   - A Quera-Bofarull
 links:

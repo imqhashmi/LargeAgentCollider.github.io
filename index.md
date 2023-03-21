@@ -3,7 +3,7 @@
 
 # Large Agent Collider
 
-We are a researchgroup based at the Deparment of Computer Sience of Oxford University.
+We are a research group based at the Department of Computer Science of Oxford University.
 
 Our research leverages AI techniques to improve on the design, validation, and calibration of agent-based models.
 
