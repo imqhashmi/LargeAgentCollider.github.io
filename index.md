@@ -1,9 +1,11 @@
 ---
 ---
 
-# LargeAgentCollider's Website
+# Large Agent Collider
 
-An engaging 1-3 sentence description of your lab.
+We are a researchgroup based at the Deparment of Computer Sience of Oxford University.
+
+Our research leverages AI techniques to improve on the design, validation, and calibration of agent-based models.
 
 {% include section.html %}
 
