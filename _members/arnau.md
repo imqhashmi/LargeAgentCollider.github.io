@@ -1,6 +1,6 @@
 ---
 name: Arnau Quera-Bofarull
-image: images/photo.jpg
+image: images/arnau.jpg
 role: postdoc
 aliases:
   - Arnau Quera-Bofarull

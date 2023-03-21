@@ -1,5 +1,13 @@
 - id: arxiv:2207.09714
   image: ./images/diff_abm.png
+  authors:
+  - Ayush Chopra
+  - "Alexander Rodr\xEDguez"
+  - Arnau Quera-Bofarull
+  - Jayakumar Subramanian
+  - Balaji Krishnamurthy
+  - B. Aditya Prakash
+  - Ramesh Raskar
   buttons:
     - type: github 
       link: https://github.com/AdityaLab/GradABM 

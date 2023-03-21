@@ -1,12 +1,12 @@
-title: LargeAgentCollider
+title: Large Agent Collider
 subtitle: Univeristy of Oxford
 description: Research group focused on the advancement of design, verification, and calibration of agent-based models.
 header: images/background.jpg
 footer: images/background.jpg
 links:
   email: arnau.quera-bofarull@cs.ox.ac.uk
-  orcid: 0000-0001-5055-9863
-  google-scholar: 8VGz9BIAAAAJ
+    #orcid: 0000-0001-5055-9863
+    #google-scholar: 8VGz9BIAAAAJ
   github: largeagentcollider
 defaults:
   - scope:
