@@ -13,3 +13,4 @@ While we update this site with more information, you can check the schedule of t
 
 - Dates: 8-9 July 2024
 - Location: Rhodes House, Oxford
+- Conference Dinner: Ashmolean Museum
