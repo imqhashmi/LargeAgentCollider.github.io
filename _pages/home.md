@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "LAC research lab at Oxford"
 sitemap: false
 permalink: /
 ---

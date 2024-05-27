@@ -1,38 +1,537 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"id": "chopraPrivateAgentBasedModeling2024",
+		"type": "article",
+		"abstract": "The practical utility of agent-based models in decision-making relies on their capacity to accurately replicate populations while seamlessly integrating real-world data streams. Yet, the incorporation of such data poses significant challenges due to privacy concerns. To address this issue, we introduce a paradigm for private agent-based modeling wherein the simulation, calibration, and analysis of agent-based models can be achieved without centralizing the agents attributes or interactions. The key insight is to leverage techniques from secure multi-party computation to design protocols for decentralized computation in agent-based models. This ensures the confidentiality of the simulated agents without compromising on simulation accuracy. We showcase our protocols on a case study with an epidemiological simulation comprising over 150,000 agents. We believe this is a critical step towards deploying agent-based models to real-world applications.",
+		"note": "arXiv:2404.12983 [cs]",
+		"number": "arXiv:2404.12983",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Private Agent-Based Modeling",
+		"URL": "http://arxiv.org/abs/2404.12983",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Chopra",
+				"given": "Ayush"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Giray-Kuru",
+				"given": "Nurullah"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Wooldridge",
+				"given": "Michael"
+			},
+			{
+				"family": "Raskar",
+				"given": "Ramesh"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2024",
+					4,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "dyerGradientAssistedCalibrationFinancial2023a",
+		"type": "paper-conference",
+		"container-title": "4th ACM International Conference on AI in Finance",
+		"DOI": "10.1145/3604237.3626857",
+		"event-place": "Brooklyn NY USA",
+		"event-title": "ICAIF '23: 4th ACM International Conference on AI in Finance",
+		"ISBN": "9798400702402",
+		"language": "en",
+		"page": "288-296",
+		"publisher": "ACM",
+		"publisher-place": "Brooklyn NY USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Gradient-Assisted Calibration for Financial Agent-Based Models",
+		"URL": "https://dl.acm.org/doi/10.1145/3604237.3626857",
+		"author": [
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			},
+			{
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
+			},
+			{
+				"family": "Chopra",
+				"given": "Ayush"
+			},
+			{
+				"family": "Farmer",
+				"given": "J. Doyne"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					11,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "quera-bofarullBlackBIRDSBlackBoxInference2023a",
+		"type": "article-journal",
+		"container-title": "Journal of Open Source Software",
+		"issue": "89",
+		"note": "publisher: Open Journal",
+		"source": "Google Scholar",
+		"title": "BlackBIRDS: Black-Box Inference foR Differentiable Simulators",
+		"title-short": "BlackBIRDS",
+		"URL": "https://ora.ox.ac.uk/objects/uuid:b308f612-2ca3-496c-bae6-2efc3ef253ac",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
+			},
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Farmer",
+				"given": "J. Doyne"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "quera-bofarullDonSimulateTwice2023",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
+		"page": "1867–1876",
+		"source": "Google Scholar",
+		"title": "Don't Simulate Twice: One-Shot Sensitivity Analyses via Automatic Differentiation",
+		"title-short": "Don't Simulate Twice",
+		"URL": "https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1867.pdf",
+		"author": [
+			{
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
+			},
+			{
+				"family": "Chopra",
+				"given": "Ayush"
+			},
+			{
+				"family": "Aylett-Bullock",
+				"given": "Joseph"
+			},
+			{
+				"family": "Cuesta-Lazaro",
+				"given": "Carolina"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Raskar",
+				"given": "Ramesh"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "dyerPopulationSynthesisScenario2023",
+		"type": "article-journal",
+		"note": "publisher: Association for Computing Machinery",
+		"source": "Google Scholar",
+		"title": "Population synthesis as scenario generation for simulation-based planning under uncertainty",
+		"URL": "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270/files/scz30pv33s",
+		"author": [
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			},
+			{
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
+			},
+			{
+				"family": "Bishop",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Farmer",
+				"given": "J. Doyne"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "quera-bofarullBayesianCalibrationDifferentiable2023a",
+		"type": "article",
+		"abstract": "Agent-based modelling (ABMing) is a powerful and intuitive approach to modelling complex systems; however, the intractability of ABMs' likelihood functions and the non-differentiability of the mathematical operations comprising these models present a challenge to their use in the real world. These difficulties have in turn generated research on approximate Bayesian inference methods for ABMs and on constructing differentiable approximations to arbitrary ABMs, but little work has been directed towards designing approximate Bayesian inference techniques for the specific case of differentiable ABMs. In this work, we aim to address this gap and discuss how generalised variational inference procedures may be employed to provide misspecification-robust Bayesian parameter inferences for differentiable ABMs. We demonstrate with experiments on a differentiable ABM of the COVID-19 pandemic that our approach can result in accurate inferences, and discuss avenues for future work.",
+		"note": "arXiv:2305.15340 [cs, stat]",
+		"number": "arXiv:2305.15340",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Bayesian calibration of differentiable agent-based models",
+		"URL": "http://arxiv.org/abs/2305.15340",
+		"author": [
+			{
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
+			},
+			{
+				"family": "Chopra",
+				"given": "Ayush"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			},
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "chopraDifferentiableAgentbasedEpidemiology2023d",
+		"type": "article",
+		"abstract": "Mechanistic simulators are an indispensable tool for epidemiology to explore the behavior of complex, dynamic infections under varying conditions and navigate uncertain environments. Agent-based models (ABMs) are an increasingly popular simulation paradigm that can represent the heterogeneity of contact interactions with granular detail and agency of individual behavior. However, conventional ABM frameworks are not differentiable and present challenges in scalability; due to which it is non-trivial to connect them to auxiliary data sources. In this paper, we introduce GradABM: a scalable, differentiable design for agent-based modeling that is amenable to gradient-based learning with automatic differentiation. GradABM can quickly simulate million-size populations in few seconds on commodity hardware, integrate with deep neural networks and ingest heterogeneous data sources. This provides an array of practical benefits for calibration, forecasting, and evaluating policy interventions. We demonstrate the efficacy of GradABM via extensive experiments with real COVID-19 and influenza datasets.",
+		"note": "arXiv:2207.09714 [cs, q-bio]",
+		"number": "arXiv:2207.09714",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Differentiable Agent-based Epidemiology",
+		"URL": "http://arxiv.org/abs/2207.09714",
+		"author": [
+			{
+				"family": "Chopra",
+				"given": "Ayush"
+			},
+			{
+				"family": "Rodríguez",
+				"given": "Alexander"
+			},
+			{
+				"family": "Subramanian",
+				"given": "Jayakumar"
+			},
+			{
+				"family": "Quera-Bofarull",
+				"given": "Arnau"
+			},
+			{
+				"family": "Krishnamurthy",
+				"given": "Balaji"
+			},
+			{
+				"family": "Prakash",
+				"given": "B. Aditya"
+			},
+			{
+				"family": "Raskar",
+				"given": "Ramesh"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "zennaroCausallyAbstractedMultiarmed2024",
+		"type": "article",
+		"abstract": "Multi-armed bandits (MAB) and causal MABs (CMAB) are established frameworks for decision-making problems. The majority of prior work typically studies and solves individual MAB and CMAB in isolation for a given problem and associated data. However, decision-makers are often faced with multiple related problems and multi-scale observations where joint formulations are needed in order to efficiently exploit the problem structures and data dependencies. Transfer learning for CMABs addresses the situation where models are defined on identical variables, although causal connections may differ. In this work, we extend transfer learning to setups involving CMABs defined on potentially different variables, with varying degrees of granularity, and related via an abstraction map. Formally, we introduce the problem of causally abstracted MABs (CAMABs) by relying on the theory of causal abstraction in order to express a rigorous abstraction map. We propose algorithms to learn in a CAMAB, and study their regret. We illustrate the limitations and the strengths of our algorithms on a real-world scenario related to online advertising.",
+		"note": "arXiv:2404.17493 [cs]",
+		"number": "arXiv:2404.17493",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Causally Abstracted Multi-armed Bandits",
+		"URL": "http://arxiv.org/abs/2404.17493",
+		"author": [
+			{
+				"family": "Zennaro",
+				"given": "Fabio Massimo"
+			},
+			{
+				"family": "Bishop",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			},
+			{
+				"family": "Felekis",
+				"given": "Yorgos"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			},
+			{
+				"family": "Damoulas",
+				"given": "Theodoros"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					4,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "dyerBlackboxBayesianInference2022b",
+		"type": "article-journal",
+		"container-title": "arXiv preprint arXiv:2202.00625",
+		"source": "Google Scholar",
+		"title": "Black-box Bayesian inference for economic agent-based models",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0165188924000198",
+		"author": [
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			},
+			{
+				"family": "Cannon",
+				"given": "Patrick"
+			},
+			{
+				"family": "Farmer",
+				"given": "J. Doyne"
+			},
+			{
+				"family": "Schmon",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "dyerInterventionallyConsistentSurrogates2023a",
+		"type": "article",
+		"abstract": "Agent-based simulators provide granular representations of complex intelligent systems by directly modelling the interactions of the system's constituent agents. Their high-fidelity nature enables hyper-local policy evaluation and testing of what-if scenarios, but is associated with large computational costs that inhibits their widespread use. Surrogate models can address these computational limitations, but they must behave consistently with the agent-based model under policy interventions of interest. In this paper, we capitalise on recent developments on causal abstractions to develop a framework for learning interventionally consistent surrogate models for agent-based simulators. Our proposed approach facilitates rapid experimentation with policy interventions in complex systems, while inducing surrogates to behave consistently with high probability with respect to the agent-based simulator across interventions of interest. We demonstrate with empirical studies that observationally trained surrogates can misjudge the effect of interventions and misguide policymakers towards suboptimal policies, while surrogates trained for interventional consistency with our proposed method closely mimic the behaviour of an agent-based model under interventions of interest.",
+		"note": "arXiv:2312.11158 [cs, stat]",
+		"number": "arXiv:2312.11158",
+		"publisher": "arXiv",
+		"source": "arXiv.org",
+		"title": "Interventionally Consistent Surrogates for Agent-based Simulators",
+		"URL": "http://arxiv.org/abs/2312.11158",
+		"author": [
+			{
+				"family": "Dyer",
+				"given": "Joel"
+			},
+			{
+				"family": "Bishop",
+				"given": "Nicholas"
+			},
+			{
+				"family": "Felekis",
+				"given": "Yorgos"
+			},
+			{
+				"family": "Zennaro",
+				"given": "Fabio Massimo"
+			},
+			{
+				"family": "Calinescu",
+				"given": "Anisoara"
+			},
+			{
+				"family": "Damoulas",
+				"given": "Theodoros"
+			},
+			{
+				"family": "Wooldridge",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					18
 				]
 			]
 		}

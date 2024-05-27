@@ -7,7 +7,7 @@
 
 # Site settings
 title: Large Agent Collider 
-email: your-email@domain.com
+email: arnau.quera-bofarull@cs.ox.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Large Agent Collider is a research lab at the University of Oxford that focuses on the development of machine learning techniques for robust and scalable agent-based modeling.
 baseurl: ""
