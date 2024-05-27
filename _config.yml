@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Research Lab
+title: Large Agent Collider 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Large Agent Collider is a research lab at the University of Oxford that focuses on the development of machine learning techniques for robust and scalable agent-based modeling.
 baseurl: ""
 url: ""
 
