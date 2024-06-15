@@ -1,55 +1,57 @@
 [
 	{
-		"id": "chopraPrivateAgentBasedModeling2024",
-		"type": "article",
-		"abstract": "The practical utility of agent-based models in decision-making relies on their capacity to accurately replicate populations while seamlessly integrating real-world data streams. Yet, the incorporation of such data poses significant challenges due to privacy concerns. To address this issue, we introduce a paradigm for private agent-based modeling wherein the simulation, calibration, and analysis of agent-based models can be achieved without centralizing the agents attributes or interactions. The key insight is to leverage techniques from secure multi-party computation to design protocols for decentralized computation in agent-based models. This ensures the confidentiality of the simulated agents without compromising on simulation accuracy. We showcase our protocols on a case study with an epidemiological simulation comprising over 150,000 agents. We believe this is a critical step towards deploying agent-based models to real-world applications.",
-		"note": "arXiv:2404.12983 [cs]",
-		"number": "arXiv:2404.12983",
-		"publisher": "arXiv",
-		"source": "arXiv.org",
-		"title": "Private Agent-Based Modeling",
-		"URL": "http://arxiv.org/abs/2404.12983",
-		"author": [
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Giray-Kuru",
-				"given": "Nurullah"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			},
-			{
-				"family": "Raskar",
-				"given": "Ramesh"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2024",
-					4,
-					19
-				]
-			]
-		}
-	},
+            "id": "14310588/D2UDUHH5",
+            "type": "paper-conference",
+            "title": "Private Agent-Based Modeling",
+            "container-title": "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '24",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "381–390",
+            "event-place": "Richland, SC",
+            "abstract": "The practical utility of agent-based models in decision-making relies on their capacity to accurately replicate populations while seamlessly integrating real-world data streams. Yet, the incorporation of such data poses significant challenges due to privacy concerns. To address this issue, we introduce a paradigm for private agent-based modeling wherein the simulation, calibration, and analysis of agent-based models can be achieved without centralizing the agents' attributes or interactions. The key insight is to leverage techniques from secure multi-party computation to design protocols for decentralized computation in agent-based models. This ensures the confidentiality of the simulated agents without compromising on simulation accuracy. We showcase our protocols on a case study with an epidemiological simulation comprising over 150,000 agents. We believe this is a critical step towards deploying agent-based models to real-world applications.",
+            "ISBN": "9798400704864",
+            "author": [
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Giray-Kuru",
+                    "given": "Nurullah"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Raskar",
+                    "given": "Ramesh"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2024",
+                        5,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
             "id": "14310588/DA9UAIG2",
             "type": "paper-conference",
