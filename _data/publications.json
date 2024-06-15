@@ -435,48 +435,53 @@
 			]
 		}
 	},
-	{
-		"id": "dyerBlackboxBayesianInference2022b",
-		"type": "article-journal",
-		"container-title": "arXiv preprint arXiv:2202.00625",
-		"source": "Google Scholar",
-		"title": "Black-box Bayesian inference for economic agent-based models",
-		"URL": "https://www.sciencedirect.com/science/article/pii/S0165188924000198",
-		"author": [
-			{
-				"family": "Dyer",
-				"given": "Joel"
-			},
-			{
-				"family": "Cannon",
-				"given": "Patrick"
-			},
-			{
-				"family": "Farmer",
-				"given": "J. Doyne"
-			},
-			{
-				"family": "Schmon",
-				"given": "Sebastian"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2022"
-				]
-			]
-		}
-	},
+        {
+            "id": "14310588/CJ8M323A",
+            "type": "article-journal",
+            "title": "Black-box Bayesian inference for agent-based models",
+            "container-title": "Journal of Economic Dynamics and Control",
+            "page": "104827",
+            "volume": "161",
+            "abstract": "Simulation models, in particular agent-based models, are gaining popularity in economics and the social sciences. The considerable flexibility they offer, as well as their capacity to reproduce a variety of empirically observed behaviours of complex systems, give them broad appeal, and the increasing availability of cheap computing power has made their use feasible. Yet a widespread adoption in real-world modelling and decision-making scenarios has been hindered by the difficulty of performing parameter estimation for such models. In general, simulation models lack a tractable likelihood function, which precludes a straightforward application of standard statistical inference techniques. A number of recent works have sought to address this problem through the application of likelihood-free inference techniques, in which parameter estimates are determined by performing some form of comparison between the observed data and simulation output. However, these approaches are (a) founded on restrictive assumptions, and/or (b) typically require many hundreds of thousands of simulations. These qualities make them unsuitable for large-scale simulations in economics and the social sciences, and can cast doubt on the validity of these inference methods in such scenarios. In this paper, we investigate the efficacy of two classes of simulation-efficient black-box approximate Bayesian inference methods that have recently drawn significant attention within the probabilistic machine learning community: neural posterior estimation and neural density ratio estimation. We present a number of benchmarking experiments in which we demonstrate that neural network-based black-box methods provide state of the art parameter inference for economic simulation models, and crucially are compatible with generic multivariate or even non-Euclidean time-series data. In addition, we suggest appropriate assessment criteria for use in future benchmarking of approximate Bayesian inference procedures for simulation models in economics and the social sciences.",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0165188924000198",
+            "DOI": "10.1016/j.jedc.2024.104827",
+            "journalAbbreviation": "Journal of Economic Dynamics and Control",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Dyer",
+                    "given": "Joel"
+                },
+                {
+                    "family": "Cannon",
+                    "given": "Patrick"
+                },
+                {
+                    "family": "Farmer",
+                    "given": "J. Doyne"
+                },
+                {
+                    "family": "Schmon",
+                    "given": "Sebastian M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2024"
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
 		"id": "dyerInterventionallyConsistentSurrogates2023a",
 		"type": "article",
