@@ -317,65 +317,67 @@
 			]
 		}
 	},
-	{
-		"id": "chopraDifferentiableAgentbasedEpidemiology2023d",
-		"type": "article",
-		"abstract": "Mechanistic simulators are an indispensable tool for epidemiology to explore the behavior of complex, dynamic infections under varying conditions and navigate uncertain environments. Agent-based models (ABMs) are an increasingly popular simulation paradigm that can represent the heterogeneity of contact interactions with granular detail and agency of individual behavior. However, conventional ABM frameworks are not differentiable and present challenges in scalability; due to which it is non-trivial to connect them to auxiliary data sources. In this paper, we introduce GradABM: a scalable, differentiable design for agent-based modeling that is amenable to gradient-based learning with automatic differentiation. GradABM can quickly simulate million-size populations in few seconds on commodity hardware, integrate with deep neural networks and ingest heterogeneous data sources. This provides an array of practical benefits for calibration, forecasting, and evaluating policy interventions. We demonstrate the efficacy of GradABM via extensive experiments with real COVID-19 and influenza datasets.",
-		"note": "arXiv:2207.09714 [cs, q-bio]",
-		"number": "arXiv:2207.09714",
-		"publisher": "arXiv",
-		"source": "arXiv.org",
-		"title": "Differentiable Agent-based Epidemiology",
-		"URL": "http://arxiv.org/abs/2207.09714",
-		"author": [
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Rodríguez",
-				"given": "Alexander"
-			},
-			{
-				"family": "Subramanian",
-				"given": "Jayakumar"
-			},
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Krishnamurthy",
-				"given": "Balaji"
-			},
-			{
-				"family": "Prakash",
-				"given": "B. Aditya"
-			},
-			{
-				"family": "Raskar",
-				"given": "Ramesh"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023",
-					5,
-					21
-				]
-			]
-		}
-	},
+        {
+            "id": "14310588/NK7EIIPD",
+            "type": "paper-conference",
+            "title": "Differentiable Agent-based Epidemiology",
+            "container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '23",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "1848–1857",
+            "event-place": "Richland, SC",
+            "abstract": "Mechanistic simulators are an indispensable tool for epidemiology to explore the behavior of complex, dynamic infections under varying conditions and navigate uncertain environments. Agent-based models (ABMs) are an increasingly popular simulation paradigm that can represent the heterogeneity of contact interactions with granular detail and agency of individual behavior. However, conventional ABM frameworks not differentiable and present challenges in scalability; due to which it is non-trivial to connect them to auxiliary data sources. In this paper, we introduce GradABM: a scalable, differentiable design for agent-based modeling that is amenable to gradient-based learning with automatic differentiation. GradABM can quickly simulate million-size populations in few seconds on commodity hardware, integrate with deep neural networks and ingest heterogeneous data sources. This provides an array of practical benefits for calibration, forecasting, and evaluating policy interventions. We demonstrate the efficacy of GradABM via extensive experiments with real COVID-19 and influenza datasets.",
+            "ISBN": "9781450394321",
+            "author": [
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Rodríguez",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Subramanian",
+                    "given": "Jayakumar"
+                },
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Krishnamurthy",
+                    "given": "Balaji"
+                },
+                {
+                    "family": "Prakash",
+                    "given": "B. Aditya"
+                },
+                {
+                    "family": "Raskar",
+                    "given": "Ramesh"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2023",
+                        5,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
 		"id": "zennaroCausallyAbstractedMultiarmed2024",
 		"type": "article",
