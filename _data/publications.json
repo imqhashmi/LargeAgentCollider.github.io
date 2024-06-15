@@ -161,61 +161,67 @@
 		}
 	},
 	{
-		"id": "quera-bofarullDonSimulateTwice2023",
-		"type": "paper-conference",
-		"container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
-		"page": "1867–1876",
-		"source": "Google Scholar",
-		"title": "Don't Simulate Twice: One-Shot Sensitivity Analyses via Automatic Differentiation",
-		"title-short": "Don't Simulate Twice",
-		"URL": "https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1867.pdf",
-		"author": [
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Aylett-Bullock",
-				"given": "Joseph"
-			},
-			{
-				"family": "Cuesta-Lazaro",
-				"given": "Carolina"
-			},
-			{
-				"family": "Calinescu",
-				"given": "Anisoara"
-			},
-			{
-				"family": "Raskar",
-				"given": "Ramesh"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
-				]
-			]
-		}
-	},
+            "id": "14310588/SDZ2CWDJ",
+            "type": "paper-conference",
+            "title": "Don't Simulate Twice: One-Shot Sensitivity Analyses via Automatic Differentiation",
+            "container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '23",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "1867–1876",
+            "event-place": "Richland, SC",
+            "abstract": "Agent-based models (ABMs) are a promising tool to simulate complex environments. Their rapid adoption requires scalable specification, efficient data-driven calibration, and validation through sensitivity analyses. Recent progress in tensorized and differentiable ABM design (GradABM) has enabled fast calibration of million-size populations, however, validation through sensitivity analysis is still computationally prohibitive due to the need for running the model a large number of times. Here, we present a novel methodology that uses automatic differentiation to perform a sensitivity analysis on a calibrated ABM without requiring any further simulations. The key insight is to leverage gradients of a GradABM to compute exact partial derivatives of any model output with respect to an arbitrary combination of parameters. We demonstrate the benefits of this approach on a case study of the first wave of COVID-19 in London, where we investigate the causes of variations in infections by age, socio-economic index, ethnicity, and geography. Finally, we also show that the same methodology allows for the design of optimal policy interventions. The code to reproduce the presented results is made available on GitHub (https://github.com/arnauqb/one_shot_sensitivity).",
+            "ISBN": "9781450394321",
+            "shortTitle": "Don't Simulate Twice",
+            "author": [
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Aylett-Bullock",
+                    "given": "Joseph"
+                },
+                {
+                    "family": "Cuesta-Lazaro",
+                    "given": "Carolina"
+                },
+                {
+                    "family": "Calinescu",
+                    "given": "Anisoara"
+                },
+                {
+                    "family": "Raskar",
+                    "given": "Ramesh"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2023",
+                        5,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
             "id": "14310588/4MR3C6S3",
             "type": "paper-conference",
