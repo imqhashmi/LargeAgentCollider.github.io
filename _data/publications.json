@@ -111,55 +111,59 @@
 		}
 	},
 	{
-		"id": "quera-bofarullBlackBIRDSBlackBoxInference2023a",
-		"type": "article-journal",
-		"container-title": "Journal of Open Source Software",
-		"issue": "89",
-		"note": "publisher: Open Journal",
-		"source": "Google Scholar",
-		"title": "BlackBIRDS: Black-Box Inference foR Differentiable Simulators",
-		"title-short": "BlackBIRDS",
-		"URL": "https://ora.ox.ac.uk/objects/uuid:b308f612-2ca3-496c-bae6-2efc3ef253ac",
-		"volume": "8",
-		"author": [
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Dyer",
-				"given": "Joel"
-			},
-			{
-				"family": "Calinescu",
-				"given": "Anisoara"
-			},
-			{
-				"family": "Farmer",
-				"given": "J. Doyne"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
-				]
-			]
-		}
-	},
+            "id": "14310588/7WZL4QN8",
+            "type": "article-journal",
+            "title": "BlackBIRDS: Black-Box Inference foR Differentiable Simulators",
+            "container-title": "Journal of Open Source Software",
+            "page": "5776",
+            "volume": "8",
+            "issue": "89",
+            "abstract": "BlackBIRDS is a Python package consisting of generically applicable, black-box inference methods for differentiable simulation models. It facilitates both (a) the differentiable implementation of simulation models by providing a common object-oriented framework for their implementation in PyTorch, and (b) the use of a variety of gradient-assisted inference procedures for these simulation models, allowing researchers to easily exploit the differentiable nature of their simulator in parameter estimation tasks. The package consists of both Bayesian and non-Bayesian inference methods, and relies on well-supported software libraries to provide this broad functionality.",
+            "URL": "https://joss.theoj.org/papers/10.21105/joss.05776",
+            "DOI": "10.21105/joss.05776",
+            "shortTitle": "BlackBIRDS",
+            "journalAbbreviation": "JOSS",
+            "author": [
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Dyer",
+                    "given": "Joel"
+                },
+                {
+                    "family": "Calinescu",
+                    "given": "Anisoara"
+                },
+                {
+                    "family": "Farmer",
+                    "given": "J. Doyne"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        28
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
             "id": "14310588/SDZ2CWDJ",
             "type": "paper-conference",
