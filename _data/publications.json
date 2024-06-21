@@ -1,271 +1,289 @@
 [
 	{
-		"id": "chopraPrivateAgentBasedModeling2024",
-		"type": "article",
-		"abstract": "The practical utility of agent-based models in decision-making relies on their capacity to accurately replicate populations while seamlessly integrating real-world data streams. Yet, the incorporation of such data poses significant challenges due to privacy concerns. To address this issue, we introduce a paradigm for private agent-based modeling wherein the simulation, calibration, and analysis of agent-based models can be achieved without centralizing the agents attributes or interactions. The key insight is to leverage techniques from secure multi-party computation to design protocols for decentralized computation in agent-based models. This ensures the confidentiality of the simulated agents without compromising on simulation accuracy. We showcase our protocols on a case study with an epidemiological simulation comprising over 150,000 agents. We believe this is a critical step towards deploying agent-based models to real-world applications.",
-		"note": "arXiv:2404.12983 [cs]",
-		"number": "arXiv:2404.12983",
-		"publisher": "arXiv",
-		"source": "arXiv.org",
-		"title": "Private Agent-Based Modeling",
-		"URL": "http://arxiv.org/abs/2404.12983",
-		"author": [
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Giray-Kuru",
-				"given": "Nurullah"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			},
-			{
-				"family": "Raskar",
-				"given": "Ramesh"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2024",
-					4,
-					19
-				]
-			]
-		}
-	},
+            "id": "14310588/D2UDUHH5",
+            "type": "paper-conference",
+            "title": "Private Agent-Based Modeling",
+            "container-title": "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '24",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "381–390",
+            "event-place": "Richland, SC",
+            "abstract": "The practical utility of agent-based models in decision-making relies on their capacity to accurately replicate populations while seamlessly integrating real-world data streams. Yet, the incorporation of such data poses significant challenges due to privacy concerns. To address this issue, we introduce a paradigm for private agent-based modeling wherein the simulation, calibration, and analysis of agent-based models can be achieved without centralizing the agents' attributes or interactions. The key insight is to leverage techniques from secure multi-party computation to design protocols for decentralized computation in agent-based models. This ensures the confidentiality of the simulated agents without compromising on simulation accuracy. We showcase our protocols on a case study with an epidemiological simulation comprising over 150,000 agents. We believe this is a critical step towards deploying agent-based models to real-world applications.",
+            "ISBN": "9798400704864",
+            "author": [
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Giray-Kuru",
+                    "given": "Nurullah"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Raskar",
+                    "given": "Ramesh"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2024",
+                        5,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
-		"id": "dyerGradientAssistedCalibrationFinancial2023a",
-		"type": "paper-conference",
-		"container-title": "4th ACM International Conference on AI in Finance",
-		"DOI": "10.1145/3604237.3626857",
-		"event-place": "Brooklyn NY USA",
-		"event-title": "ICAIF '23: 4th ACM International Conference on AI in Finance",
-		"ISBN": "9798400702402",
-		"language": "en",
-		"page": "288-296",
-		"publisher": "ACM",
-		"publisher-place": "Brooklyn NY USA",
-		"source": "DOI.org (Crossref)",
-		"title": "Gradient-Assisted Calibration for Financial Agent-Based Models",
-		"URL": "https://dl.acm.org/doi/10.1145/3604237.3626857",
-		"author": [
-			{
-				"family": "Dyer",
-				"given": "Joel"
-			},
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Farmer",
-				"given": "J. Doyne"
-			},
-			{
-				"family": "Calinescu",
-				"given": "Anisoara"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023",
-					11,
-					27
-				]
-			]
-		}
-	},
+            "id": "14310588/DA9UAIG2",
+            "type": "paper-conference",
+            "title": "Gradient-Assisted Calibration for Financial Agent-Based Models",
+            "container-title": "Proceedings of the Fourth ACM International Conference on AI in Finance",
+            "collection-title": "ICAIF '23",
+            "publisher": "Association for Computing Machinery",
+            "publisher-place": "New York, NY, USA",
+            "page": "288–296",
+            "event-place": "New York, NY, USA",
+            "abstract": "Agent-based modelling (ABMing) is a promising approach to modelling and reasoning about complex systems such as financial markets. However, the application of ABMs in practice is often impeded by the models’ complexity and the ensuing difficulty of performing parameter inference and optimisation tasks. This in turn has motivated efforts directed towards the construction of differentiable ABMs, enabled by recently developed effective auto-differentiation frameworks, as a strategy for addressing these challenges. In this paper, we discuss and present experiments that demonstrate how differentiable programming may be used to implement and calibrate heterogeneous ABMs in finance. We begin by considering in more detail the difficulties inherent in constructing gradients for discrete ABMs. Secondly, we illustrate solutions to these difficulties, by using a discrete agent-based market simulation model as a case study. Finally, we show through numerical experiments how our differentiable implementation of this discrete ABM enables the use of powerful tools from probabilistic machine learning and conditional generative modelling to perform robust parameter inferences and uncertainty quantification, in a simulation-efficient manner.",
+            "URL": "https://doi.org/10.1145/3604237.3626857",
+            "DOI": "10.1145/3604237.3626857",
+            "ISBN": "9798400702402",
+            "author": [
+                {
+                    "family": "Dyer",
+                    "given": "Joel"
+                },
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Farmer",
+                    "given": "J. Doyne"
+                },
+                {
+                    "family": "Calinescu",
+                    "given": "Anisoara"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2023",
+                        11,
+                        25
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
-		"id": "quera-bofarullBlackBIRDSBlackBoxInference2023a",
-		"type": "article-journal",
-		"container-title": "Journal of Open Source Software",
-		"issue": "89",
-		"note": "publisher: Open Journal",
-		"source": "Google Scholar",
-		"title": "BlackBIRDS: Black-Box Inference foR Differentiable Simulators",
-		"title-short": "BlackBIRDS",
-		"URL": "https://ora.ox.ac.uk/objects/uuid:b308f612-2ca3-496c-bae6-2efc3ef253ac",
-		"volume": "8",
-		"author": [
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Dyer",
-				"given": "Joel"
-			},
-			{
-				"family": "Calinescu",
-				"given": "Anisoara"
-			},
-			{
-				"family": "Farmer",
-				"given": "J. Doyne"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
-				]
-			]
-		}
-	},
+            "id": "14310588/7WZL4QN8",
+            "type": "article-journal",
+            "title": "BlackBIRDS: Black-Box Inference foR Differentiable Simulators",
+            "container-title": "Journal of Open Source Software",
+            "page": "5776",
+            "volume": "8",
+            "issue": "89",
+            "abstract": "BlackBIRDS is a Python package consisting of generically applicable, black-box inference methods for differentiable simulation models. It facilitates both (a) the differentiable implementation of simulation models by providing a common object-oriented framework for their implementation in PyTorch, and (b) the use of a variety of gradient-assisted inference procedures for these simulation models, allowing researchers to easily exploit the differentiable nature of their simulator in parameter estimation tasks. The package consists of both Bayesian and non-Bayesian inference methods, and relies on well-supported software libraries to provide this broad functionality.",
+            "URL": "https://joss.theoj.org/papers/10.21105/joss.05776",
+            "DOI": "10.21105/joss.05776",
+            "shortTitle": "BlackBIRDS",
+            "journalAbbreviation": "JOSS",
+            "author": [
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Dyer",
+                    "given": "Joel"
+                },
+                {
+                    "family": "Calinescu",
+                    "given": "Anisoara"
+                },
+                {
+                    "family": "Farmer",
+                    "given": "J. Doyne"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        28
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
-		"id": "quera-bofarullDonSimulateTwice2023",
-		"type": "paper-conference",
-		"container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
-		"page": "1867–1876",
-		"source": "Google Scholar",
-		"title": "Don't Simulate Twice: One-Shot Sensitivity Analyses via Automatic Differentiation",
-		"title-short": "Don't Simulate Twice",
-		"URL": "https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1867.pdf",
-		"author": [
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Aylett-Bullock",
-				"given": "Joseph"
-			},
-			{
-				"family": "Cuesta-Lazaro",
-				"given": "Carolina"
-			},
-			{
-				"family": "Calinescu",
-				"given": "Anisoara"
-			},
-			{
-				"family": "Raskar",
-				"given": "Ramesh"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
-				]
-			]
-		}
-	},
+            "id": "14310588/SDZ2CWDJ",
+            "type": "paper-conference",
+            "title": "Don't Simulate Twice: One-Shot Sensitivity Analyses via Automatic Differentiation",
+            "container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '23",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "1867–1876",
+            "event-place": "Richland, SC",
+            "abstract": "Agent-based models (ABMs) are a promising tool to simulate complex environments. Their rapid adoption requires scalable specification, efficient data-driven calibration, and validation through sensitivity analyses. Recent progress in tensorized and differentiable ABM design (GradABM) has enabled fast calibration of million-size populations, however, validation through sensitivity analysis is still computationally prohibitive due to the need for running the model a large number of times. Here, we present a novel methodology that uses automatic differentiation to perform a sensitivity analysis on a calibrated ABM without requiring any further simulations. The key insight is to leverage gradients of a GradABM to compute exact partial derivatives of any model output with respect to an arbitrary combination of parameters. We demonstrate the benefits of this approach on a case study of the first wave of COVID-19 in London, where we investigate the causes of variations in infections by age, socio-economic index, ethnicity, and geography. Finally, we also show that the same methodology allows for the design of optimal policy interventions. The code to reproduce the presented results is made available on GitHub (https://github.com/arnauqb/one_shot_sensitivity).",
+            "ISBN": "9781450394321",
+            "shortTitle": "Don't Simulate Twice",
+            "author": [
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Aylett-Bullock",
+                    "given": "Joseph"
+                },
+                {
+                    "family": "Cuesta-Lazaro",
+                    "given": "Carolina"
+                },
+                {
+                    "family": "Calinescu",
+                    "given": "Anisoara"
+                },
+                {
+                    "family": "Raskar",
+                    "given": "Ramesh"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2023",
+                        5,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
-		"id": "dyerPopulationSynthesisScenario2023",
-		"type": "article-journal",
-		"note": "publisher: Association for Computing Machinery",
-		"source": "Google Scholar",
-		"title": "Population synthesis as scenario generation for simulation-based planning under uncertainty",
-		"URL": "https://ora.ox.ac.uk/objects/uuid:87663b7f-60ca-44f3-8fa5-b9fd501e6270/files/scz30pv33s",
-		"author": [
-			{
-				"family": "Dyer",
-				"given": "Joel"
-			},
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Bishop",
-				"given": "Nicholas"
-			},
-			{
-				"family": "Farmer",
-				"given": "J. Doyne"
-			},
-			{
-				"family": "Calinescu",
-				"given": "Anisoara"
-			},
-			{
-				"family": "Wooldridge",
-				"given": "Michael"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
-				]
-			]
-		}
-	},
+            "id": "14310588/4MR3C6S3",
+            "type": "paper-conference",
+            "title": "Population Synthesis as Scenario Generation for Simulation-based Planning under Uncertainty",
+            "container-title": "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '24",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "490–498",
+            "event-place": "Richland, SC",
+            "abstract": "Agent-based models have the potential to become instrumental tools in real-world decision-making, equipping policy-makers with the ability to experiment with high-fidelity representations of complex systems. Such models often rely crucially on the generation of synthetic populations with which the model is simulated, and their behaviour can depend strongly on the population's composition. Existing approaches to synthesising populations attempt to model distributions over agent-level attributes on the basis of data collected from a real-world population. Unfortunately, these approaches are of limited utility when data is incomplete or altogether absent - such as during novel, unprecedented circumstances - so that considerable uncertainty regarding the characteristics of the population being modelled remains, even after accounting for any such data. What is therefore needed in these cases are tools to simulate and plan for the possible future behaviours of the complex system that can be generated by populations that are consistent with this remaining uncertainty. To this end, we frame the problem of synthesising populations in agent-based models as a problem of scenario generation. The framework that we present is designed to generate synthetic populations that are on the one hand consistent with any persisting uncertainty, while on the other hand matching closely a target, user-specified scenario that the decision-maker would like to explore and plan for. We propose and compare two generic approaches to generating synthetic populations that produce target scenarios, and demonstrate through simulation studies that these approaches are able to automatically generate synthetic populations whose behaviours match the target scenario, thereby facilitating simulation-based planning under uncertainty.",
+            "ISBN": "9798400704864",
+            "author": [
+                {
+                    "family": "Dyer",
+                    "given": "Joel"
+                },
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Bishop",
+                    "given": "Nicholas"
+                },
+                {
+                    "family": "Farmer",
+                    "given": "J. Doyne"
+                },
+                {
+                    "family": "Calinescu",
+                    "given": "Anisoara"
+                },
+                {
+                    "family": "Wooldridge",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2024",
+                        5,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
 		"id": "quera-bofarullBayesianCalibrationDifferentiable2023a",
 		"type": "article",
@@ -317,65 +335,67 @@
 			]
 		}
 	},
-	{
-		"id": "chopraDifferentiableAgentbasedEpidemiology2023d",
-		"type": "article",
-		"abstract": "Mechanistic simulators are an indispensable tool for epidemiology to explore the behavior of complex, dynamic infections under varying conditions and navigate uncertain environments. Agent-based models (ABMs) are an increasingly popular simulation paradigm that can represent the heterogeneity of contact interactions with granular detail and agency of individual behavior. However, conventional ABM frameworks are not differentiable and present challenges in scalability; due to which it is non-trivial to connect them to auxiliary data sources. In this paper, we introduce GradABM: a scalable, differentiable design for agent-based modeling that is amenable to gradient-based learning with automatic differentiation. GradABM can quickly simulate million-size populations in few seconds on commodity hardware, integrate with deep neural networks and ingest heterogeneous data sources. This provides an array of practical benefits for calibration, forecasting, and evaluating policy interventions. We demonstrate the efficacy of GradABM via extensive experiments with real COVID-19 and influenza datasets.",
-		"note": "arXiv:2207.09714 [cs, q-bio]",
-		"number": "arXiv:2207.09714",
-		"publisher": "arXiv",
-		"source": "arXiv.org",
-		"title": "Differentiable Agent-based Epidemiology",
-		"URL": "http://arxiv.org/abs/2207.09714",
-		"author": [
-			{
-				"family": "Chopra",
-				"given": "Ayush"
-			},
-			{
-				"family": "Rodríguez",
-				"given": "Alexander"
-			},
-			{
-				"family": "Subramanian",
-				"given": "Jayakumar"
-			},
-			{
-				"family": "Quera-Bofarull",
-				"given": "Arnau"
-			},
-			{
-				"family": "Krishnamurthy",
-				"given": "Balaji"
-			},
-			{
-				"family": "Prakash",
-				"given": "B. Aditya"
-			},
-			{
-				"family": "Raskar",
-				"given": "Ramesh"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023",
-					5,
-					21
-				]
-			]
-		}
-	},
+        {
+            "id": "14310588/NK7EIIPD",
+            "type": "paper-conference",
+            "title": "Differentiable Agent-based Epidemiology",
+            "container-title": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems",
+            "collection-title": "AAMAS '23",
+            "publisher": "International Foundation for Autonomous Agents and Multiagent Systems",
+            "publisher-place": "Richland, SC",
+            "page": "1848–1857",
+            "event-place": "Richland, SC",
+            "abstract": "Mechanistic simulators are an indispensable tool for epidemiology to explore the behavior of complex, dynamic infections under varying conditions and navigate uncertain environments. Agent-based models (ABMs) are an increasingly popular simulation paradigm that can represent the heterogeneity of contact interactions with granular detail and agency of individual behavior. However, conventional ABM frameworks not differentiable and present challenges in scalability; due to which it is non-trivial to connect them to auxiliary data sources. In this paper, we introduce GradABM: a scalable, differentiable design for agent-based modeling that is amenable to gradient-based learning with automatic differentiation. GradABM can quickly simulate million-size populations in few seconds on commodity hardware, integrate with deep neural networks and ingest heterogeneous data sources. This provides an array of practical benefits for calibration, forecasting, and evaluating policy interventions. We demonstrate the efficacy of GradABM via extensive experiments with real COVID-19 and influenza datasets.",
+            "ISBN": "9781450394321",
+            "author": [
+                {
+                    "family": "Chopra",
+                    "given": "Ayush"
+                },
+                {
+                    "family": "Rodríguez",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Subramanian",
+                    "given": "Jayakumar"
+                },
+                {
+                    "family": "Quera-Bofarull",
+                    "given": "Arnau"
+                },
+                {
+                    "family": "Krishnamurthy",
+                    "given": "Balaji"
+                },
+                {
+                    "family": "Prakash",
+                    "given": "B. Aditya"
+                },
+                {
+                    "family": "Raskar",
+                    "given": "Ramesh"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2023",
+                        5,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
 		"id": "zennaroCausallyAbstractedMultiarmed2024",
 		"type": "article",
@@ -435,48 +455,53 @@
 			]
 		}
 	},
-	{
-		"id": "dyerBlackboxBayesianInference2022b",
-		"type": "article-journal",
-		"container-title": "arXiv preprint arXiv:2202.00625",
-		"source": "Google Scholar",
-		"title": "Black-box Bayesian inference for economic agent-based models",
-		"URL": "https://www.sciencedirect.com/science/article/pii/S0165188924000198",
-		"author": [
-			{
-				"family": "Dyer",
-				"given": "Joel"
-			},
-			{
-				"family": "Cannon",
-				"given": "Patrick"
-			},
-			{
-				"family": "Farmer",
-				"given": "J. Doyne"
-			},
-			{
-				"family": "Schmon",
-				"given": "Sebastian"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2024",
-					5,
-					27
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2022"
-				]
-			]
-		}
-	},
+        {
+            "id": "14310588/CJ8M323A",
+            "type": "article-journal",
+            "title": "Black-box Bayesian inference for agent-based models",
+            "container-title": "Journal of Economic Dynamics and Control",
+            "page": "104827",
+            "volume": "161",
+            "abstract": "Simulation models, in particular agent-based models, are gaining popularity in economics and the social sciences. The considerable flexibility they offer, as well as their capacity to reproduce a variety of empirically observed behaviours of complex systems, give them broad appeal, and the increasing availability of cheap computing power has made their use feasible. Yet a widespread adoption in real-world modelling and decision-making scenarios has been hindered by the difficulty of performing parameter estimation for such models. In general, simulation models lack a tractable likelihood function, which precludes a straightforward application of standard statistical inference techniques. A number of recent works have sought to address this problem through the application of likelihood-free inference techniques, in which parameter estimates are determined by performing some form of comparison between the observed data and simulation output. However, these approaches are (a) founded on restrictive assumptions, and/or (b) typically require many hundreds of thousands of simulations. These qualities make them unsuitable for large-scale simulations in economics and the social sciences, and can cast doubt on the validity of these inference methods in such scenarios. In this paper, we investigate the efficacy of two classes of simulation-efficient black-box approximate Bayesian inference methods that have recently drawn significant attention within the probabilistic machine learning community: neural posterior estimation and neural density ratio estimation. We present a number of benchmarking experiments in which we demonstrate that neural network-based black-box methods provide state of the art parameter inference for economic simulation models, and crucially are compatible with generic multivariate or even non-Euclidean time-series data. In addition, we suggest appropriate assessment criteria for use in future benchmarking of approximate Bayesian inference procedures for simulation models in economics and the social sciences.",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0165188924000198",
+            "DOI": "10.1016/j.jedc.2024.104827",
+            "journalAbbreviation": "Journal of Economic Dynamics and Control",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Dyer",
+                    "given": "Joel"
+                },
+                {
+                    "family": "Cannon",
+                    "given": "Patrick"
+                },
+                {
+                    "family": "Farmer",
+                    "given": "J. Doyne"
+                },
+                {
+                    "family": "Schmon",
+                    "given": "Sebastian M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2024"
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        6,
+                        15
+                    ]
+                ]
+            }
+        },
 	{
 		"id": "dyerInterventionallyConsistentSurrogates2023a",
 		"type": "article",
